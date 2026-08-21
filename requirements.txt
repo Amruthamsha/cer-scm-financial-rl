@@ -1,0 +1,13 @@
+gcastle==1.0.3
+networkx
+scipy
+scikit-learn
+statsmodels
+yfinance
+torch
+torchvision
+torchaudio
+numpy
+pandas
+matplotlib
+seaborn
