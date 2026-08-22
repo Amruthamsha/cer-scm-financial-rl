@@ -46,7 +46,7 @@ cer-scm-financial-rl/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/cer-scm-financial-rl.git
+git clone https://github.com/Amruthamsha/cer-scm-financial-rl.git
 cd cer-scm-financial-rl
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
